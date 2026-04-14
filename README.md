@@ -8,7 +8,7 @@ Un juego de bolera para realidad virtual, desarrollado con Unity y el plugin Aut
 - **Bolas con Mecánicas Únicas**:
   - **Bola Normal**: Peso y fricción estándar, comportamiento equilibrado.
   - **Bola Con Rebote**: Alto nivel de rebote gracias a su Physic Material.
-  - **Bola Sin Gravedad**: No se ve afectada por la gravedad (Use Gravity = false).
+  - **Bola Sin Gravedad**: No se ve afectada por la gravedad.
 - **Pista de Bolos Física**: Superficie con fricción para un deslizamiento realista.
 
 ## Controles (VR)
