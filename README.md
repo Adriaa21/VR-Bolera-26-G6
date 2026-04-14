@@ -20,7 +20,7 @@ Un juego de bolera para realidad virtual, desarrollado con Unity y el plugin Aut
 | Lanzar | Mover la mano con intención y soltar |
 | Reiniciar objetos | Presionar botón físico o entrar en zona de reinicio |
 
-## 🛠️ Tecnologías Usadas
+## Tecnologías Usadas
 
 - **Unity** (versión 6.0)
 - **Auto Hand** (Plugin para interacción VR)
